@@ -276,7 +276,7 @@ dist/
 
 ## Built for
 
-GFG Hackathon 2025 — by the InstantBI team.
+GFG Hackathon 2026 — by the InstantBI team.
 
 ---
 
